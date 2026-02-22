@@ -10,3 +10,4 @@ for x in range(11):
             print("*" + " " * (14) + "||" + " " * (14) + "*")
         else:
             print("*" + " " * (30) + "*")
+#priyanshu
